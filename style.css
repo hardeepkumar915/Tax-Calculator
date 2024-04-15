@@ -1,0 +1,13 @@
+.tooltip-inner {
+    background-color: #4C5D6B !important;
+    color: #fff;
+}
+
+.tooltip.top .tooltip-arrow {
+    border-top-color: #4C5D6B !important;
+}
+
+button {
+    background-color: #6559F5 !important;
+    color: #fff !important;
+}
